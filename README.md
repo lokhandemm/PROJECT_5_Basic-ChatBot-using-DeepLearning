@@ -1,9 +1,13 @@
 # 🤖 Basic ChatBot using Deep Learning  
 
 ## 📌 Project Overview  
-This project is a **Deep Learning-based ChatBot** that uses **Natural Language Processing (NLP)** to understand and respond to user queries. The chatbot is trained on a structured dataset of conversational intents and can recognize user input patterns, classify them into predefined categories, and generate appropriate responses.  
+This project is a **Deep Learning-based ChatBot** that uses **Natural Language Processing (NLP)** to understand and respond to user queries. 
 
-The chatbot employs a **Neural Network (LSTM/RNN-based model)** for text classification and intent recognition. The goal is to create an interactive AI assistant capable of carrying out simple conversations based on predefined responses.  
+The chatbot is trained on a structured dataset of conversational intents and can recognize user input patterns, classify them into predefined categories, and generate appropriate responses.  
+
+The chatbot employs a **Neural Network (LSTM/RNN-based model)** for text classification and intent recognition. 
+
+The goal is to create an interactive AI assistant capable of carrying out simple conversations based on predefined responses.  
 
 ---
 
