@@ -1,7 +1,7 @@
 # 🤖 Basic ChatBot using Deep Learning  
 
 ## 📌 Project Overview  
-This project is a **Deep Learning-based ChatBot** that uses **Natural Language Processing (NLP)** to understand and respond to user queries. 
+This project is a **Deep Learning-based ChatBot** that uses **Natural Language Processing (NLP)** to understand and respond to user queries.  
 
 The chatbot is trained on a structured dataset of conversational intents and can recognize user input patterns, classify them into predefined categories, and generate appropriate responses.  
 
