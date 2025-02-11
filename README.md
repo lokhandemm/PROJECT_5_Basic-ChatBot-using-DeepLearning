@@ -7,7 +7,7 @@ The chatbot is trained on a structured dataset of conversational intents and can
 
 The chatbot employs a **Neural Network (LSTM/RNN-based model)** for text classification and intent recognition.     
  
-The goal is to create an interactive AI assistant capable of carrying out simple conversations based on predefined responses.  
+The goal is to create an interactive AI assistant capable of carrying out simple conversations based on predefined responses.   
 
 ---
 
