@@ -11,7 +11,7 @@ The goal is to create an interactive AI assistant capable of carrying out simple
 
 ---
 
-## 🛠 Tech Stack & Tools  
+## 🛠 Tech Stack & Tools   
 
 - **Programming Language**: Python  
 - **Deep Learning Framework**: TensorFlow/Keras  
