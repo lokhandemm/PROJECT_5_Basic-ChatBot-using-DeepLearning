@@ -5,7 +5,7 @@ This project is a **Deep Learning-based ChatBot** that uses **Natural Language P
 
 The chatbot is trained on a structured dataset of conversational intents and can recognize user input patterns, classify them into predefined categories, and generate appropriate responses.  
 
-The chatbot employs a **Neural Network (LSTM/RNN-based model)** for text classification and intent recognition.    
+The chatbot employs a **Neural Network (LSTM/RNN-based model)** for text classification and intent recognition.     
 
 The goal is to create an interactive AI assistant capable of carrying out simple conversations based on predefined responses.  
 
