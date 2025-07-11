@@ -9,7 +9,7 @@ The chatbot employs a **Neural Network (LSTM/RNN-based model)** for text classif
  
 The goal is to create an interactive AI assistant capable of carrying out simple conversations based on predefined responses.   
 
----
+ 
 
 ## 🛠 Tech Stack & Tools   
 
